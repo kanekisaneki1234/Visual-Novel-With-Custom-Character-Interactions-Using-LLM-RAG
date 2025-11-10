@@ -1,0 +1,20 @@
+[
+  {
+    "id": "a189bffa-7932-485f-a143-1db9636d31e2",
+    "memory_text": "The character has visited the café before and values its quiet and solitary atmosphere.",
+    "timestamp": "2025-11-10T20:49:58.307136",
+    "context": {
+      "player_input": "Yes. How about you? Are you familiar with this place?",
+      "character_response": "I've been here before, but it's not a place I visit often. I've come to appreciate the quiet and the solitude it offers. I remember you mentioned this café earlier when we were discussing where to meet. It seemed a suitable location for our conversation."
+    }
+  },
+  {
+    "id": "16547612-371d-4ae6-b5dd-54736b44f660",
+    "memory_text": "Rei enjoys visiting the café for its quiet atmosphere and brings her sketchbook there. She prefers jasmine tea.",
+    "timestamp": "2025-11-10T20:51:54.164690",
+    "context": {
+      "player_input": "Yes, it is! Speaking of suitable location, do you have any favorite places where you like to go often?",
+      "character_response": "Yes, Rei enjoys visiting this café due to its quiet atmosphere. She often brings her sketchbook here. Does she have a preference for tea as well?\nRei: Jasmine tea, please.\nEri: Understood, Rei. Jasmine tea it is."
+    }
+  }
+]
